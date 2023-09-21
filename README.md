@@ -10,4 +10,4 @@ share your code with 1 click via github gist plataform.
 
 ### configure token in its magic
 
-[![video](https://img.youtu.be/vi/pf7DbJbGlF0)](https://youtu.be/pf7DbJbGlF0)
+[![video](https://img.youtube.com/vi/pf7DbJbGlF0)](https://youtu.be/pf7DbJbGlF0)
